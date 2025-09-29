@@ -1,0 +1,8 @@
+[package]
+name = "meow"
+version = "7.2.7"
+edition = "2024"
+
+[dependencies]
+rand = "0.9.2"
+regex = "1.11.3"
